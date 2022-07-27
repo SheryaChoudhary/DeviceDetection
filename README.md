@@ -1,2 +1,2 @@
 # DeviceDetection
-Device information extracted using PHP
+Device and Web Browser information extracted.
